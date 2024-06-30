@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/node": "^20.14.9",
+    "init": "^0.1.2"
+  },
+  "name": "oops",
+  "version": "1.0.0",
+  "main": "classes.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
