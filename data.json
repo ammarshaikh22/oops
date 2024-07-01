@@ -1,0 +1,13 @@
+
+{
+    "data": [
+        {
+            "ques": "what is typescript",
+            "option1": "new language",
+            "option2": "super set of javascript",
+            "option3": "sup set of javascript",
+            "option4": "sup set of java",
+            "correct": "option2"
+        }
+    ]
+}
